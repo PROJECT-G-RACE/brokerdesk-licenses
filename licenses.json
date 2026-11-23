@@ -1,73 +1,9 @@
-{
-  "version": 1,
-  "support_whatsapp": "9947099626",
-  "pricing": {
-    "one_month_inr": 50,
-    "one_year_inr": 500
-  },
-  "licenses": [
-    {
-      "plain_key": "BIBIN",
-      "key_hash": "cbf5a92a54b9d031cbaec11c911cfda139f4fe6d3b3815c432d67ad931a7c732",
-      "plan": "MONTHLY",
-      "duration_days": 30,
-      "status": "ACTIVE"
-    },
-    {
-      "plain_key": "BDK-M50-DEMO1",
-      "key_hash": "a1835941916328a6fcfbb34fa47e44a034293e5b32ecab49326e6f98efec933b",
-      "plan": "MONTHLY",
-      "duration_days": 30,
-      "status": "ACTIVE"
-    },
-    {
-      "plain_key": "BDK-M50-7K9A-4R2X",
-      "key_hash": "42323e01103e91d8487739eeea3413da7605d34208e986adcb55a02e6484a0d9",
-      "plan": "MONTHLY",
-      "duration_days": 30,
-      "status": "ACTIVE"
-    },
-    {
-      "plain_key": "BDK-M50-9M2W-8P5Q",
-      "key_hash": "777dc11c6258079b7ce2bba08baea28292fb257aa85d588a442d8c36be864506",
-      "plan": "MONTHLY",
-      "duration_days": 30,
-      "status": "ACTIVE"
-    },
-    {
-      "plain_key": "PRASAD",
-      "key_hash": "91a81dc19e1cae389e27c191a5cf57d5440d9dff430bb45cb11f2a01d670f590",
-      "plan": "YEARLY",
-      "duration_days": 365,
-      "status": "ACTIVE"
-    },
-    {
-      "plain_key": "BDK-Y500-DEMO1",
-      "key_hash": "0c5c4da174e2d3bbd6ffeafe60e34b9d020612089eb3b764ee7111fc900a301d",
-      "plan": "YEARLY",
-      "duration_days": 365,
-      "status": "ACTIVE"
-    },
-    {
-      "plain_key": "BDK-Y500-3H8V-1J6T",
-      "key_hash": "55c276326d9c6ecad7f6e2ec989a35e4d29505504245648f86fe155a0446b7a0",
-      "plan": "YEARLY",
-      "duration_days": 365,
-      "status": "ACTIVE"
-    },
-    {
-      "plain_key": "BDK-Y500-5N4Y-7B9C",
-      "key_hash": "8470a7bb9348d6dbd767118671f654b9d07242fcdae1b213b1900a40f8ce813f",
-      "plan": "YEARLY",
-      "duration_days": 365,
-      "status": "ACTIVE"
-    },
-    {
-      "plain_key": "BDK-ADMIN-9947099626",
-      "key_hash": "8939c1482813589b38466b043d9aaae437b6c507c645ecf556b6c003fc4ba3f4",
-      "plan": "LIFETIME",
-      "duration_days": 3650,
-      "status": "ACTIVE"
-    }
-  ]
-}
+[
+  {"key": "BDK-M50-TEST", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Active", "boundEmail": "test.month@brokerdesk.app", "expiresAt": "2025-01-31"},
+  {"key": "BDK-Y500-TEST", "plan": "1 Year", "durationDays": 365, "price": 500, "status": "Active", "boundEmail": "test.year@brokerdesk.app", "expiresAt": "2026-01-01"},
+  {"key": "BDK-ADMIN-9947099626", "plan": "Admin", "durationDays": 36500, "price": 0, "status": "Active", "boundEmail": "9947099626", "expiresAt": "2124-12-08"},
+  {"key": "BDK-M50-8492-7104", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Active", "boundEmail": "rajesh.kumar@gmail.com", "expiresAt": "2025-03-17"},
+  {"key": "BDK-Y500-3918-5021", "plan": "1 Year", "durationDays": 365, "price": 500, "status": "Active", "boundEmail": "priya.sharma@apexrealty.in", "expiresAt": "2026-02-20"},
+  {"key": "BDK-M50-6102-4489", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Unused", "boundEmail": "—", "expiresAt": "2025-03-31"},
+  {"key": "BDK-M50-1109-8832", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Expired", "boundEmail": "amit.verma@realtyco.com", "expiresAt": "2025-02-04"}
+]
