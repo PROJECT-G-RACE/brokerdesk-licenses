@@ -1,7 +1,7 @@
 [
   {"key": "BDKM504XAXYEVR", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Active", "boundEmail": "", "expiresAt": "1899-12-30"},
   {"key": "BDKM50FQ2UCZU6", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Active", "boundEmail": "", "expiresAt": "1899-12-30"},
-  {"key": "BDKM508WKA39T9", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Activated", "boundEmail": "bx.", "expiresAt": "2026-12-25"},
+  {"key": "BDKM508WKA39T9", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Active", "boundEmail": "bx.", "expiresAt": "2026-12-25"},
   {"key": "BDKM50UCS4FTL3", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Activated", "boundEmail": "testabin@", "expiresAt": "1899-12-30"},
   {"key": "BDKM50UJMUSAB7", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Active", "boundEmail": "", "expiresAt": "1899-12-30"},
   {"key": "BDKM509SQNNVWG", "plan": "1 Month", "durationDays": 30, "price": 50, "status": "Active", "boundEmail": "", "expiresAt": "1899-12-30"},
